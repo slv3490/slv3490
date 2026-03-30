@@ -8,7 +8,7 @@
 </div>
 
 
-## 🚀 About Me  
+## 🚀 Sobre Mí
 
 Soy desarrollador web con especial interés en el framework **Laravel**. He desarrollado **proyectos full stack** desde cero, lo que me permitió fortalecer mis conocimientos y profundizar en el amplio mundo de la programación.
 
@@ -21,7 +21,7 @@ Aunque disfruto desenvolverme con **Laravel**, **me adapto con facilidad a nueva
 
 - Trabajo con buenas prácticas de arquitectura, testing automatizado y herramientas modernas como Docker, priorizando siempre código limpio, mantenible y escalable.
 
-### 🚀 Looking For  
+### 🚀 En qué puedo aportar
 - 💼 Oportunidades laborales en Backend / Laravel
 - 🧩 Proyectos donde puedo crear APIs y aplicaciones reales
 - 🤝 Colaboración con desarrolladores para aprender y mejorar las mejores prácticas
