@@ -30,32 +30,24 @@ Trabajo con buenas prácticas de arquitectura, testing automatizado y herramient
 <br><br>
 
 
-<div align="center">
-  <h2 align="center">Lenguajes 🚀</h2>
-  [![My Skills](https://skillicons.dev/icons?i=php,js)](https://skillicons.dev)
-</div>
+<h2 align="center">🚀 Tech Stack</h2>
+
 <br>
 
+<h3 align="center">💻 Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
 
-<div align="center">
-  <h2 align="center">Frontends🚀</h2>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) 
-</div>
-<br>
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass" />
+</p>
 
-
-<div align="center">
-  <h2 align="center">Backend🚀</h2>
-  [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
-</div>
-<br>
-
-
-<div align="center">
-  <h2 align="center">Otros🚀</h2>
-   [![My Skills](https://skillicons.dev/icons?i=postman,docker,vscode,git,github,npm,sass,tailwind,ubuntu,vite)](https://skillicons.dev)
-</div>
-<br>
+<h3 align="center">🛠️ Tools & Others</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,npm,vite,ubuntu" />
+</p>
 
 
 <div id="user-content-toc">
